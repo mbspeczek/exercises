@@ -1,0 +1,5 @@
+You have a pack of 5 randomly numbered cards, which can range from 0-9. 
+You can win if you can produce a higher two-digit number from your cards than your opponent.
+Return true if your cards win that round.
+
+https://edabit.com/challenge/WKDLPg5MqXXMXAzhC
